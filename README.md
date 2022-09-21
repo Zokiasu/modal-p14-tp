@@ -4,9 +4,9 @@ Cette librairie est une simple modal affichant un texte et le boutton permettant
 
 ## Installation 
 
-Vous pouvez installer la librairie grâce à `npm i modal-p14-tp`
-Puis importer le component : `import { Modal } from 'modal-p14-tp'`
-Ainsi que le css `import 'modal-p14-tp/dist/index.css'`
+Vous pouvez installer la librairie grâce à `npm i modal-p14-tp`  
+Puis importer le component : `import { Modal } from 'modal-p14-tp'`  
+Ainsi que le css `import 'modal-p14-tp/dist/index.css'`  
 
 ## Exemple d'utilisation
 
